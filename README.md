@@ -17,4 +17,4 @@ Completed user stories:
 Walkthrough of all user stories:
 
 
-![gif walkthrough](Week5Tumblr_Walkthrough.gif)
+![gif walkthrough](Week5Tumblr_walkthrough.gif)
